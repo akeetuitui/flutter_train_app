@@ -1,16 +1,11 @@
-# flutter_train_booking_app_skj
+# 프로젝트 설명
+**🚊 Flutter 기차 예매 앱** 
+출발역, 도착역을 선택해 기차를 예매해보세요!
 
-A new Flutter project.
 
-## Getting Started
+# Project
+**✅ 기본 기능**
+ - 홈: 출발역/도착역 열람 및 좌석 선택 버튼
+ - 역 선택: 출발역/도착역 선택
+ - 좌석 선택 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
