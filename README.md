@@ -9,3 +9,10 @@
  - 역 선택: 출발역/도착역 선택
  - 좌석 선택 
 
+## TroubleShooting
+
+    🚨 Git 연동이 되지 않음
+
+ - 문제: Git 연동이 되지 않는 문제 
+ - 해결: 로컬과 원격 저장소 동기화
+    `git pull origin main` 
